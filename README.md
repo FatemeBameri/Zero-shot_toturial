@@ -6,3 +6,4 @@
 - [Few-shot and Zero-shot Learning - Part 01](https://www.youtube.com/watch?v=ppC9ruaVuQQ&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG&index=74)
 - [Few-shot and Zero-shot Learning - Part 02](https://www.youtube.com/watch?v=Ex3FwzOGIkY&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG)
 - [Few-shot Learning with Meta-Learning](https://www.youtube.com/watch?v=k_-IsfMiOXQ)
+- [ICML 2019 Tutorial: Meta-Learning: from Few-Shot Learning to Rapid](https://videoken.com/embed/DijI4XrhqNo)
