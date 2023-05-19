@@ -5,3 +5,4 @@
 - [Lilian Weng, Meta-Learning: Learning to fast](https://lilianweng.github.io/posts/2018-11-30-meta-learning/#:~:text=The%20goal%20of%20the%20meta,parameters%20%2C%20and%20the%20loss%20function%20.)
 - [Few-shot and Zero-shot Learning - Part 01](https://www.youtube.com/watch?v=ppC9ruaVuQQ&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG&index=74)
 - [Few-shot and Zero-shot Learning - Part 02](https://www.youtube.com/watch?v=Ex3FwzOGIkY&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG)
+- [Few-shot Learning with Meta-Learning](https://www.youtube.com/watch?v=k_-IsfMiOXQ)
