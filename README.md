@@ -10,3 +10,5 @@
 - [Good Summary](https://learnopencv.com/zero-shot-learning-an-introduction/)
 # Anomaly Detection Paper
 - Anomaly Detection based on Zero-Shot Outlier Synthesis and Hierarchical Feature Distillation
+# Transformer Paper
+- Inpainting Transformer for Anomaly Detection
