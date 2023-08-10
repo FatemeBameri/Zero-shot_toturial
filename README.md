@@ -8,3 +8,5 @@
 - [Few-shot Learning with Meta-Learning](https://www.youtube.com/watch?v=k_-IsfMiOXQ)
 - [ICML 2019 Tutorial: Meta-Learning: from Few-Shot Learning to Rapid](https://videoken.com/embed/DijI4XrhqNo)
 - [Good Summary](https://learnopencv.com/zero-shot-learning-an-introduction/)
+# Anomaly Detection Paper
+- Anomaly Detection based on Zero-Shot Outlier Synthesis and Hierarchical Feature Distillation
